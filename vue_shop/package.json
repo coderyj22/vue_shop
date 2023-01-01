@@ -19,15 +19,15 @@
     "vue-table-with-tree-grid": "^0.2.4"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.3.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-router": "^4.3.0",
-    "@vue/cli-service": "^4.3.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-plugin-component": "^1.1.1",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "less": "^3.11.1",
-    "less-loader": "^5.0.0",
+    "less-loader": "^11.1.0",
     "sass": "^1.26.3",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^13.2.0",
     "vue-template-compiler": "^2.6.11"
   }
 }
